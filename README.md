@@ -22,6 +22,29 @@ Desde los cimientos de Python hasta las redes neuronales:
 
 ---
 
+## 📊 Progreso en Análisis de Datos (Pandas)
+Actualmente, he profundizado en el dominio de **Pandas**, cubriendo desde los fundamentos hasta técnicas avanzadas de **ETL (Extract, Transform, Load)**:
+
+* **Estructuras:** Comprensión profunda de `Series` y `DataFrames`.
+* **Selección Avanzada:** Uso experto de `loc` e `iloc` para indexación y segmentación de datos.
+* **Data Wrangling:**
+    * **Limpieza:** Tratamiento de datos nulos y conversión de tipos (manejo de `datetime`).
+    * **Transformación:** Ordenar, agrupar (`groupby`) y aplicar funciones personalizadas.
+    * **Combinación de Datasets:** Uso de `merge`, `join`, `concat` y técnicas de combinación para unir múltiples fuentes de información.
+
+---
+
+## 📁 Proyectos y Prácticas Destacadas
+
+He aplicado estos conocimientos en casos de estudio reales:
+* **🥇 Análisis Histórico de Medallas Olímpicas:** Limpieza y agrupación de datos para determinar el desempeño por país a lo largo de los años.
+* **🛒 Análisis de Ventas Retail:** Procesamiento de eventos de una tienda para identificar patrones de consumo y productos estrella.
+
+
+---
+
+---
+
 ## 💡 ¿Por qué hago esto?
 Creo firmemente que el manejo de la información es el "superpoder" del presente. Estoy invirtiendo horas de contenido y cientos de ejercicios prácticos para:
 1.  **Limpiar y analizar** grandes volúmenes de datos.
